@@ -7,7 +7,7 @@ services:
     ports:
       - "8000:8000"
     environment:
-      - SECRET_KEY=your-secret-key-here  # Change this in production!
+      - SECRET_KEY=your-secret-key-here
     volumes:
       - ./app:/app/app
     restart: unless-stopped
