@@ -1,4 +1,3 @@
-```markdown
 # Servicio de Autenticación
 
 Un microservicio de autenticación ligero construido con FastAPI que proporciona registro de usuarios y autenticación basada en JWT.
@@ -122,14 +121,3 @@ Para despliegue en producción:
 1. Cambiar el SECRET_KEY a un valor seguro
 2. Asegurar que las reglas de firewall estén correctamente configuradas
 3. Considerar usar HTTPS si está expuesto a internet
-
-## Cómo Contribuir
-
-1. Hacer un fork del repositorio
-2. Crear una rama para la nueva característica
-3. Hacer commit de tus cambios
-4. Hacer push a la rama
-5. Crear un Pull Request
-```
-
-¿Necesitas que te aclare alguna sección o tienes preguntas específicas?
